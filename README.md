@@ -1,4 +1,5 @@
 # flutter_floating_menu
+![Download](https://img.shields.io/badge/flutter_floating_menu-0.0.1-blue.svg)
 
 A new Flutter package which helps developers in creating Floating Menu.
 
