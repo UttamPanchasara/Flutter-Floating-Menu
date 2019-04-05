@@ -9,7 +9,7 @@ A new Flutter package which helps developers in creating Floating Menu.
 
 ## Usage
 
-[Example](https://github.com/UttamPanchasara/Flutter-Floating-Menu/blob/master/example/example.dart)
+[Example](https://github.com/UttamPanchasara/FloatingMenu)
 
 To use this package :
 
