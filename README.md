@@ -19,7 +19,7 @@ To use this package :
   dependencies:
     flutter:
       sdk: flutter
-    flutter_floating_menu:
+    flutter_floating_menu: ^0.0.1
 ```
 
 ## Quick Start:
