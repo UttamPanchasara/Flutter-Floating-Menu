@@ -13,7 +13,7 @@ A new Flutter package which helps developers in creating Floating Menu.
 
 To use this package :
 
-* add the dependency to your [pubspec.yaml](https://github.com/iampawan/Flutter-Walkthrough/blob/master/pubspec.yaml) file.
+* add the dependency to your [pubspec.yaml](https://github.com/UttamPanchasara/Flutter-Floating-Menu/blob/master/pubspec.yaml) file.
 
 ```yaml
   dependencies:
