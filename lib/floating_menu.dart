@@ -123,6 +123,7 @@ class _FloatingMenuState extends State<FloatingMenu>
           return Container(
             padding: EdgeInsets.only(left: 8, right: 8, bottom: bottomPadding),
             child: FloatingActionButton(
+              heroTag: menuItem.id.toString(),
               onPressed: () {
                 _changeFloatingVisibility();
                 widget.callback.onMenuClick(menuItem);

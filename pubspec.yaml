@@ -1,11 +1,11 @@
 name: flutter_floating_menu
 description: A new Flutter package which helps developers in creating Floating Menu.
-version: 0.0.1
+version: 0.0.2
 author: Uttam Panchasara <panchasarauttam@gmail.com>
 homepage: https://github.com/UttamPanchasara/Flutter-Floating-Menu
 
 environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+  sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
   flutter:
