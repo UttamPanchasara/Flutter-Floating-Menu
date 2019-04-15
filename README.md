@@ -1,5 +1,5 @@
 # flutter_floating_menu
-[![Download](https://img.shields.io/badge/flutter_floating_menu-0.0.1-blue.svg)](https://pub.dartlang.org/packages/flutter_floating_menu)
+[![Download](https://img.shields.io/badge/flutter_floating_menu-0.0.2-blue.svg)](https://pub.dartlang.org/packages/flutter_floating_menu)
 
 A new Flutter package which helps developers in creating Floating Menu.
 
@@ -19,7 +19,7 @@ To use this package :
   dependencies:
     flutter:
       sdk: flutter
-    flutter_floating_menu: ^0.0.1
+    flutter_floating_menu: ^0.0.2
 ```
 
 ## Quick Start:
